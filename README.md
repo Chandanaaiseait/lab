@@ -1,3 +1,3 @@
 # lab
 git lab
-this is just readme file
+this is just a readme file
